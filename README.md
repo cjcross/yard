@@ -4,6 +4,7 @@
 [![GitHub](http://img.shields.io/badge/github-lsegal/yard-blue.svg)](http://github.com/lsegal/yard)
 [![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://rubydoc.org/gems/yard/frames)
 [![IRC Chat](https://img.shields.io/badge/chat-%23yard%20@%20freenode-orange.svg)](irc://irc.freenode.net/yard)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fyard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fyard?ref=badge_shield)
 
 [![Gem Version](https://badge.fury.io/rb/yard.svg)](http://github.com/lsegal/yard/releases)
 [![Build Status](https://travis-ci.org/lsegal/yard.svg?branch=master)](https://travis-ci.org/lsegal/yard)
@@ -327,3 +328,6 @@ YARD &copy; 2007-2016 by [Loren Segal](mailto:lsegal@soen.ca). YARD is
 licensed under the MIT license except for some files which come from the
 RDoc/Ruby distributions. Please see the {file:LICENSE} and {file:LEGAL}
 documents for more information.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fyard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fyard?ref=badge_large)
